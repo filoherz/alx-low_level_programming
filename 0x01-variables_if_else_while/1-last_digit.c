@@ -5,8 +5,8 @@
 /**
  * main - entry point
  *
- * Description: print the value of n status:
- *		greater than, is zero and is not less than 6.
+ * Description: print the status of the value of n whether it is greater than 5
+ *		, equals to 0 or less than 6 but not equal 0.
  *
  * Return : 0 (Success)
 */
